@@ -1,3 +1,12 @@
+# CODTECH-IT-SOLUTIONS-TASK
+Name : Rahul R
+id :
+Company : CODTECH IT SOLUTIONS
+Domain : C Programming
+Duration : july to may(4 Weeks)
+
+
+
 
 ### Abstract
 The Temperature Conversion Program is a simple console-based application that facilitates the conversion of temperature values between Celsius, Fahrenheit, and Kelvin. Users can choose from a menu of conversion options and input the temperature they wish to convert. The program processes the input, performs the necessary calculations using predefined formulas, and displays the converted temperature. This project serves as an educational tool for understanding temperature units and their interrelationships while also providing hands-on experience with C programming concepts such as data types, conditional statements, and user input handling.
