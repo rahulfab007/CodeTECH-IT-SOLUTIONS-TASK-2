@@ -1,9 +1,8 @@
-# CODTECH-IT-SOLUTIONS-TASK
-Name : Rahul R
-id :
-Company : CODTECH IT SOLUTIONS
-Domain : C Programming
-Duration : july to may(4 Weeks)
+#Name : Rahul R
+#id : CT4CP5021
+#Company : CODTECH IT SOLUTIONS
+#Domain : C Programming
+#Duration : july to may(4 Weeks)
 
 
 
